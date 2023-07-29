@@ -42,6 +42,6 @@ The application was designed into two modules first is for the User  who wish to
 </li>
 <li>
   <h3>Cart page</h3>
-  <img src="https://github.com/vidya-coder/Full-stack-E-commerce-website/blob/main/sceenshots/cart.png" alt="home page" />
+  <img src="[https://github.com/vidya-coder/Full-stack-E-commerce-website/blob/main/sceenshots/cart.png](https://github.com/Vidya-veeranna/Full-stack-E-commerce-website/blob/main/sceenshots/cart.png)https://github.com/Vidya-veeranna/Full-stack-E-commerce-website/blob/main/sceenshots/cart.png" alt="home page" />
 </li>
 </ul>
